@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Garrett Galow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2017 17:20:09 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 17:47:57 -0700</lastBuildDate>
     
 	<atom:link href="http://garrettgalow.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://garrettgalow.com/posts/second-post/</link>
+      <pubDate>Wed, 11 Oct 2017 17:47:57 -0700</pubDate>
+      
+      <guid>http://garrettgalow.com/posts/second-post/</guid>
+      <description> hi again </description>
+    </item>
     
     <item>
       <title>My First Post</title>
