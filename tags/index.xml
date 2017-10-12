@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Garrett Galow</title>
-    <link>http://example.org/tags/</link>
+    <link>http://garrettgalow.com/tags/</link>
     <description>Recent content in Tags on Garrett Galow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://garrettgalow.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
