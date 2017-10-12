@@ -1,4 +1,4 @@
 baseURL = "http://garrettgalow.com/"
 languageCode = "en-us"
 title = "Garrett Galow"
-theme = "ananke"
+theme = "hugo-goa"
