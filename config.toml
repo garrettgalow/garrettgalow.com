@@ -9,14 +9,14 @@ author = "Garrett Galow"
 ## Site Settings
 [params]
 author = "Garrett Galow"
-intro = "Making the Cloud easier for everyone"
+intro = "Making the Cloud faster and more secure"
 description = "Product @ Cloudflare. Previously Product @ Microsoft Azure"
 # TODO: authorimage = ""
 dateformat = "Mon, Jan 2, 2006"
 
 [params.meta]
 description = "Homepage for Garrett Galow"
-keywords = "garrett,galow,cloud,product,cloudflare"
+keywords = "garrett,galow,cloud,product,cloudflare,product management"
 
 [params.social]
 github = "garrettgalow"
