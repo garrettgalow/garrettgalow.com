@@ -1,0 +1,36 @@
+baseURL = "http://garrettgalow.com/"
+languageCode = "en-us"
+title = "Garrett Galow"
+theme = "hugo-goa"
+
+author = "Garrett Galow"
+
+
+## Site Settings
+[params]
+author = "Garrett Galow"
+intro = "Making the Cloud faster and more secure"
+description = "Product @ Cloudflare. Previously Product @ Microsoft Azure"
+# TODO: authorimage = ""
+dateformat = "Mon, Jan 2, 2006"
+
+[params.meta]
+description = "Homepage for Garrett Galow"
+keywords = "garrett,galow,cloud,product,cloudflare,product management"
+
+[params.social]
+github = "garrettgalow"
+twitter = "g2theg"
+linkedin = "garrett-galow"
+email = "garrett.galow@gmail.com"
+
+#[params.extra]
+#highlightjs = false
+#poweredby = true
+
+## Main Menu
+[[menu.main]]
+   name = "about"
+   weight = 100
+   identifier = "about"
+   url = "/about/"
