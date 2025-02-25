@@ -10,13 +10,13 @@ author = "Garrett Galow"
 [params]
 author = "Garrett Galow"
 intro = "Building the Cloud one fluffy byte at a time"
-description = "Product @ Cloudflare. Previously Product @ Microsoft Azure"
+description = "Product @ WorkOS. Previously Product @ Cloudflare & Microsoft Azure"
 # TODO: authorimage = ""
 dateformat = "Mon, Jan 2, 2006"
 
 [params.meta]
 description = "Homepage for Garrett Galow"
-keywords = "garrett,galow,cloud,product,cloudflare,product management"
+keywords = "garrett,galow,cloud,product,workos,cloudflare,product management"
 
 [params.social]
 github = "garrettgalow"
